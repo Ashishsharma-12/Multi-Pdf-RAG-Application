@@ -1,0 +1,9 @@
+python-dotenv
+langchain_huggingface
+streamlit
+huggingface_hub
+pypdf
+langchain_text_splitters
+langchain_community
+Chroma
+langchain
